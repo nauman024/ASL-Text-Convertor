@@ -1,0 +1,8 @@
+# ------------------------
+# Dataset (do NOT upload)
+# ------------------------
+data/
+
+
+ASL-Text-Convertor/
+*.p
